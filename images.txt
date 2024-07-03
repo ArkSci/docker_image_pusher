@@ -6,3 +6,4 @@ xhofe/alist:latest
 xiaoyaliu/alist
 docker
 casaos
+--platform=linux/arm32 xiaoyaliu/alist
