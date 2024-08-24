@@ -7,3 +7,4 @@ xiaoyaliu/alist
 docker
 casaos
 xiaoyaliu/alist:hostmode
+docker-ce/linux/ubuntu/gpg
